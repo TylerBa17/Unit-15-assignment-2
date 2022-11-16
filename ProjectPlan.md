@@ -20,6 +20,13 @@ Website Development
 * Plan where the contents should be on the webpage in terms of convenience and importance.
 * Show before and after pictures. Include how it was originally set out to look compared to the finished website.
 * Refer to the criteria for contents that need to be featured.
+### Content Criteria
+*	A profile of the company itself
+*	profiles of existing trainee web developers
+*	job specifications and required qualifications
+*	an on-line application form
+*	links to web development courses
+
 
 ## Testing
 

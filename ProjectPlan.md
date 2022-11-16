@@ -15,11 +15,18 @@ Website Development
 ## Plan
 
 * Carry out a sketch/diagram of how the website will initially look. Recommended software - Photoshop
-* Incllude an alternate design option for backup.
+* Include an alternate design option for backup.
 * Jusify why the website was designed the way it was (colour, font,layout)
 * Plan where the contents should be on the webpage in terms of convenience and importance.
 * Show before and after pictures. Include how it was originally set out to look compared to the finished website.
 * Refer to the criteria for contents that need to be featured.
+* Review and resond to feedback from others.
+* produce a target plan with dates and tasks of when they should be completed by e.g:
+
+ #### Task: feedback from my website
+ #### Deadline: 16.11.22.
+- [ ] Completed?   
+
 ### Content Criteria
 *	A profile of the company itself
 *	profiles of existing trainee web developers
